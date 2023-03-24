@@ -1,0 +1,13 @@
+1)import statements
+|
+2)FUNCTION TO display_graph
+
+3)data load
+|
+4)year resample table
+|
+5)call the FUNCTION
+|
+6)quarter resample table
+| 
+7)call the function
